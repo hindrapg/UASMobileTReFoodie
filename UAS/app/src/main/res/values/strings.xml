@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">TReFoodie</string>
+    <string name="search_your_recipes">Search Your Recipes…</string>
+    <string name="meal_categories">Meal Categories</string>
+    <string name="category">Category</string>
+    <string name="country">Country</string>
+    <string name="instructions">INSTRUCTIONS</string>
+    <string name="dot_loading">...</string>
+    <string name="Ingredients">INGREDIENTS</string>
+    <string name="add_database">Add to Eaten Meal List</string>
+    <string name="source">SOURCE</string>
+    <string name="favorite">Favorite</string>
+    <string name="calories">Total Calories</string>
+    <string name="remaining_calories">Remaining calories</string>
+    <string name="eaten_calories">You have eaten</string>
+    <string name="pick_date">Pick dates</string>
+    <string name="pickD_Detail">Pick dates to insert the food</string>
+
+    <string name="delete_confirm">Delete confirmation</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="you_got">You got</string>
+
+    <string name="material_calendar_monday">Mon</string>
+    <string name="material_calendar_tuesday">Tue</string>
+    <string name="material_calendar_wednesday">Wed</string>
+    <string name="material_calendar_thursday">Thu</string>
+    <string name="material_calendar_friday">Fri</string>
+    <string name="material_calendar_saturday">Sat</string>
+    <string name="material_calendar_sunday">Sun</string>
+
+    <array name="material_calendar_months_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </array>
+
+    <string name="material_calendar_today_button">Today</string>
+    <string name="material_calendar_positive_button">OK</string>
+    <string name="material_calendar_negative_button">Cancel</string>
+    <string name="you_lost">You lost</string>
+    <string name="empty">___</string>
+
+    <string name="cal_today">cal in a day</string>
+    <string name="cal_in_a_day">cal in a day</string>
+    <string name="you_now_get">You now get</string>
+    <string name="kg">Kg</string>
+    <string name="enter_the_weight_you_hope">Enter the weight you hope</string>
+    <string name="move">Move</string>
+    <string name="eat">Eat</string>
+    <string name="record">Record</string>
+</resources>

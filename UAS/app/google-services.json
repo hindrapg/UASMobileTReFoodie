@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "33276476570",
+    "firebase_url": "https://uasmobile-14a7b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uasmobile-14a7b",
+    "storage_bucket": "uasmobile-14a7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33276476570:android:fd0c289c1fbdc5eab1b323",
+        "android_client_info": {
+          "package_name": "id.ac.umn.testis_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33276476570-5jkaeodukhbs2hh6g92vt8j5msi47sal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQPvsRYD1jlJLIEiX-rZH-NyP2FuzRMNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33276476570-5jkaeodukhbs2hh6g92vt8j5msi47sal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33276476570:android:2350e5358ef48f91b1b323",
+        "android_client_info": {
+          "package_name": "id.ac.umn.uas_aplikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33276476570-5jkaeodukhbs2hh6g92vt8j5msi47sal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQPvsRYD1jlJLIEiX-rZH-NyP2FuzRMNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33276476570-5jkaeodukhbs2hh6g92vt8j5msi47sal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
